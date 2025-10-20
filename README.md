@@ -12,3 +12,5 @@ Dieses Repository ist ein Demo-Repository für die Vorlesung "Software Engineeri
 1) Commit(s) pushen
 1) PullRequest reviewen
 1) PullRequest mergen
+
+## Live Edit via Browser Based VS Code
