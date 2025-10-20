@@ -1,6 +1,6 @@
 function countTo(targetNumber) {
 	if(targetNumber < 0) {
-		throw new Error("no negative values!");
+		throw new Error("Negative values are invalid!");
 	}
 
 	for(let i = 0; i < targetNumber; i++) {
