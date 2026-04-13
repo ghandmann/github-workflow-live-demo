@@ -1,6 +1,7 @@
 function countTo(targetNumber) {
 	if(targetNumber < 0) {
-		throw new Error("Negative values are invalid!");
+		console.log("You are stupid. Negative values not supported!");
+		return;
 	}
 
 	for(let i = 0; i < targetNumber; i++) {
@@ -8,7 +9,7 @@ function countTo(targetNumber) {
 	}
 }
 
-countTo(5);
+// countTo(7);
 
-countTo(-1);
+countTo(-100);
 // countTo("Peter");
