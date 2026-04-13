@@ -9,6 +9,8 @@ function countTo(targetNumber) {
 	}
 }
 
+hallo
+
 // countTo(7);
 
 countTo(-100);
