@@ -5,6 +5,7 @@ function countTo(targetNumber) {
 }
 
 countTo(7);
-
+console.log("Hallo Welt!");
 // countTo(-1);
 // countTo("Peter");
+// Blubb
